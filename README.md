@@ -1,5 +1,7 @@
 # To-Do App (React Native + Expo)
 
+#The specification documents and the questionnaire are inside the 'docs' folder.
+
 Mobile to-do application with SQLite persistence, categories, filters,
 optional due dates and scheduled local notifications.
 
